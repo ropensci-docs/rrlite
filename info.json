@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "65b83997f8e461201d7830bc59cae4a2f83143f7",
+    "author": "Rich FitzJohn <rich.fitzjohn@gmail.com>",
+    "time": "2018-01-15 09:54:35",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #6 from ropensci/badge-add\n\nAdded ropensci badge"
+  },
+  "repo": "https://github.com/ropensci/rrlite",
+  "pkg": "rrlite"
+}
